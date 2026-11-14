@@ -1,3 +1,6 @@
+#### NB
+Using copies of the notebooks to prevent merge conflicts with the ever changing ARENA materials. Denoted with an append "_mine".
+
 ### ARENA [slack channel](https://info-arena.github.io/ARENA_img/slack.html)
 
 * Please report any errors/concerns with the material in #errata.
